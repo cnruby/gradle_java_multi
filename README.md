@@ -51,6 +51,8 @@ git clone https://github.com/cnruby/hello_gradle_java.git
 
 # 2. Create the Multi-Project Builds in Gradle
 
+![docs/images/hello_gradle_java-main.png](docs/images/hello_gradle_java-main.png)
+
 ## create an application 'app'
 
 ```bash
