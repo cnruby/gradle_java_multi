@@ -117,7 +117,7 @@ include 'lib'
 
 ## Use the library "lib"
 
-### Step 1:
+### Step 1: Important!!!
 ```bash
 vi app/build.gradle
 
