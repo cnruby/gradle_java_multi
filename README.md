@@ -1,5 +1,42 @@
 # Multi-Project Builds in Gradle
 
+```bash
+.
+├── app
+│ ├── build.gradle
+│ └── src
+│     ├── main
+│     │ └── java
+│     │     └── hello_app
+│     │         └── App.java
+│     └── test
+│         └── java
+│             └── hello_app
+│                 └── AppTest.java
+├── .gitattributes
+├── .gitignore
+├── gradle
+│ └── wrapper
+│     ├── gradle-wrapper.jar
+│     └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── lib
+│ ├── build.gradle
+│ └── src
+│     ├── main
+│     │ └── java
+│     │     └── hello_lib
+│     │         └── Library.java
+│     └── test
+│         └── java
+│             └── hello_lib
+│                 └── LibraryTest.java
+├── LICENSE
+├── README.md
+└── settings.gradle
+```
+
 ## create an application 'app'
 
 ```bash
