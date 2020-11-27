@@ -1,5 +1,7 @@
 # Multi-Project Builds in Gradle
 
+## structure for projects
+
 ```bash
 .
 ├── app
@@ -36,6 +38,17 @@
 ├── README.md
 └── settings.gradle
 ```
+
+## Use the projects
+
+```bash
+git clone https://github.com/cnruby/hello_gradle_java.git
+./gradlew -q run
+
+>> Library = true
+>> Hello world.
+```
+
 
 ## create an application 'app'
 
