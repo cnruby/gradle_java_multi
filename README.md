@@ -1,4 +1,4 @@
-# Multi-Project Builds in Gradle
+# 1. About Multi-Project Builds in Gradle
 
 ## structure for projects
 
@@ -49,6 +49,7 @@ git clone https://github.com/cnruby/hello_gradle_java.git
 >> Hello world.
 ```
 
+# 2. Create the Multi-Project Builds in Gradle
 
 ## create an application 'app'
 
